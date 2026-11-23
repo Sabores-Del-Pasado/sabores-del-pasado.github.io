@@ -1,0 +1,15 @@
+{
+  "name": "Sabores del Pasado · Recetario de Calkiní",
+  "short_name": "Sabores del Pasado",
+  "description": "Recetario digital de la gastronomía tradicional del municipio de Calkiní, Campeche.",
+  "lang": "es-MX",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf5ea",
+  "theme_color": "#a4471f",
+  "icons": [
+    { "src": "fotos/icono.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "fotos/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ]
+}

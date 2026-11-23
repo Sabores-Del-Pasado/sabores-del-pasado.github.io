@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sabores-del-pasado.github.io/sitemap.xml
